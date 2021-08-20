@@ -3,8 +3,8 @@
 ## Commands
 
 - Build
-  - ´mvn clean install´
+  ´mvn clean install´
 - Run Test
-  - ´mvn clean test´
+  ´mvn clean test´
 - Cobertura Code Coverage
-  - ´mvn cobertura:cobertura´
+  ´mvn cobertura:cobertura´
